@@ -1,0 +1,1 @@
+/ip dns set servers=1.1.1.1,8.8.8.8 allow-remote-requests=yes
